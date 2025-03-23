@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from "react";
 import FoodCard from "./FoodCard";
-import FoodData from "../data/FoodData.js";
+import FoodData from "../Data/FoodData";
 import toast, { Toaster } from "react-hot-toast";
 import { useSelector } from "react-redux";
 
